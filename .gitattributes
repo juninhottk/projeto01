@@ -1,2 +1,39 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>projeto01</title>
+    <link rel="stylesheet" href="teste.css">
+</head>
+
+<body>
+    <div class="interface">
+        <section class="page1">
+            <h2> CAÇA FANTASMA</h2>
+        </section>
+        <section class="page2">
+            <H2>GHOSTBUSTERS</H2>
+        </section>
+        <section class="page3">
+            <H2>BUSTER BUNDLE</H2>
+        </section>
+        <section class="page4">
+            <H2>GHOST</H2>
+        </section>
+        <section class="page5">
+            <H2>
+                HUNTERS</H2>
+        </section>
+    </div>
+
+
+
+
+
+
+
+</body>
+
+</html>
